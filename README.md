@@ -1,8 +1,8 @@
-<img align="right" src="https://raw.githubusercontent.com/mohammedouissadane/mohammedouissadane/main/1917348a-2f48-41ed-aa98-8b2df8181eaf.png" width="30%">
 <h1>
   Hi There, I'm Mohammed Ouissadane 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
+<img align="right" style="margin-top: 200px;" src="1917348a-2f48-41ed-aa98-8b2df8181eaf.png" width="20%">
 <p>
 I'm a Fullstack developer currently studying and improving my skills in web development. I have a passion for building scalable, efficient, and user-friendly web applications.
 </p>
