@@ -2,7 +2,7 @@
   Hi There, I'm Mohammed Ouissadane 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<img align="right" style="margin-top: 200px;" src="cv mohammed img 2.png.png" width="20%">
+<img align="right" style="margin-top: 200px;" src="my image.png" width="20%">
 <p>
 I'm a Fullstack developer currently studying and improving my skills in web development. I have a passion for building scalable, efficient, and user-friendly web applications.
 </p>
