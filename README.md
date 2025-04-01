@@ -27,8 +27,8 @@ I'm a Fullstack developer currently studying and improving my skills in web deve
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedouissadane&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&layout=compact)
 <br>
-<a href="https://komarev.com/ghpvc/?username=mohammedouissadane&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=mohammedouissadane&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=medouissadane&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=medouissadane&style=for-the-badge">
 </a>
